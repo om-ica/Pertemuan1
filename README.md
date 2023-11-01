@@ -1,3 +1,4 @@
 Halo nama saya Irsa Cahaya Widodo
-Saya adalah mahasiswa Polinema
-Saya bersal dari jurusan Teknologi Informasi
+\nSaya adalah mahasiswa Polinema
+\nSaya bersal dari jurusan Teknologi Informasi
+\n Saya punya teman
